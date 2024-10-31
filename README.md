@@ -1,25 +1,25 @@
-# trainScheduleManager
 # Train Station Management Dashboard
 This project provides a web-based application for managing train station activities, including real-time train arrival and departure updates, platform allocation, waiting queue management, and historical reports on departed trains.
 
 # Features
-# CSV upload for bulk train scheduling.
-# Dynamic platform allocation based on priority.
+=> CSV upload for bulk train scheduling.
+=> Dynamic platform allocation based on priority.
 
 # Getting Started:
 
-# Installation
-# Clone the Repository:
+Installation
+1. Clone the Repository:
 
 git clone <repository_url>
 cd <repository_name>
 
-# Install Dependencies: Run the following command to install all dependencies.
+
+2. Install Dependencies: Run the following command to install all dependencies.
 
 npm install
 
 
-# Running the Application
+3. Running the Application
 To start the development server, use:
 
 npm start
