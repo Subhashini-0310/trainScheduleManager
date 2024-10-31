@@ -2,7 +2,8 @@
 This project provides a web-based application for managing train station activities, including real-time train arrival and departure updates, platform allocation, waiting queue management, and historical reports on departed trains.
 
 # Features
-=> CSV upload for bulk train scheduling.
+=> CSV upload for bulk train scheduling
+
 => Dynamic platform allocation based on priority.
 
 # Getting Started:
